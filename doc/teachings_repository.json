@@ -1,0 +1,149 @@
+{
+  "qualities": {
+    "words": [
+      "ASPIRATION",
+      "GRATITUDE",
+      "HUMILITY",
+      "PEACE",
+      "PROGRESS",
+      "SINCERITY"
+    ],
+    "quotes": [
+      {
+        "id": "Q_QUAL_001",
+        "name": "Sincerity",
+        "quality": "Sincerity",
+        "text": "Sincerity is the key of the divine doors; it is the condition of all progress. To be sincere is to have no other dynamic motive than the desire to find the Divine and serve Him.",
+        "source": "The Mother",
+        "book": "Words of The Mother - Vol 14"
+      },
+      {
+        "id": "Q_QUAL_002",
+        "name": "Progress",
+        "quality": "Progress",
+        "text": "Sincerity is the key of the divine doors; it is the condition of all progress. To be sincere is to have no other dynamic motive than the desire to find the Divine and serve Him.",
+        "source": "The Mother",
+        "book": "Words of The Mother - Vol 14"
+      },
+      {
+        "id": "Q_QUAL_003",
+        "name": "Humility",
+        "quality": "Humility",
+        "text": "True humility consists in knowing that without the Divine Grace we are nothing, and that our only strength is the strength of the Divine working through us.",
+        "source": "The Mother",
+        "book": "Words of The Mother - Vol 14"
+      },
+      {
+        "id": "Q_QUAL_004",
+        "name": "Gratitude",
+        "quality": "Gratitude",
+        "text": "Gratitude is a loving vibration of the soul turned toward the Divine. It is the sweetest of all vibrations that can rise from the heart.",
+        "source": "The Mother",
+        "book": "Words of The Mother - Vol 14"
+      },
+      {
+        "id": "Q_QUAL_006",
+        "name": "Aspiration",
+        "quality": "Aspiration",
+        "text": "To feel the Divine presence constantly in all things and all movements. The lotus is the flower of quiet, ascending aspiration.",
+        "source": "The Mother",
+        "book": "Flowers and Their Messages"
+      },
+      {
+        "id": "Q_QUAL_010",
+        "name": "Peace",
+        "quality": "Peace",
+        "text": "Om is the signature of the Infinite. It is the unmanifest sound from which all manifestation rises, bringing peace and cosmic expansion to the mind.",
+        "source": "Sri Aurobindo",
+        "book": "Letters on Yoga - Vol 29"
+      },
+      {
+        "id": "Q_QUAL_011",
+        "name": "Peace",
+        "quality": "Peace",
+        "text": "In the silence of the mind, the divine force acts and transforms the nature. Speak only when necessary and let your words arise from that deep peace.",
+        "source": "Sri Aurobindo",
+        "book": "Letters on Yoga - Vol 29"
+      },
+      {
+        "id": "Q_QUAL_013",
+        "name": "Aspiration",
+        "quality": "Aspiration",
+        "text": "The overlapping triangles represent the ascent of human aspiration and the descent of the Divine Grace. The square in the center represents manifestation, and the lotus represents realization.",
+        "source": "Sri Aurobindo",
+        "book": "Collected Letters"
+      }
+    ]
+  },
+  "flowers": {
+    "words": [
+      "LOTUS",
+      "ROSE"
+    ],
+    "quotes": [
+      {
+        "id": "Q_FLOW_005",
+        "name": "Lotus",
+        "quality": "Lotus",
+        "text": "To feel the Divine presence constantly in all things and all movements. The lotus is the flower of quiet, ascending aspiration.",
+        "source": "The Mother",
+        "book": "Flowers and Their Messages"
+      },
+      {
+        "id": "Q_FLOW_008",
+        "name": "Rose",
+        "quality": "Rose",
+        "text": "Pure, constant, and complete; the offering of the heart at the feet of the Mother. A rose blooms in silent devotion, seeking only to give its fragrance.",
+        "source": "The Mother",
+        "book": "Flowers and Their Messages"
+      },
+      {
+        "id": "Q_FLOW_014",
+        "name": "Lotus",
+        "quality": "Lotus",
+        "text": "The overlapping triangles represent the ascent of human aspiration and the descent of the Divine Grace. The square in the center represents manifestation, and the lotus represents realization.",
+        "source": "Sri Aurobindo",
+        "book": "Collected Letters"
+      }
+    ]
+  },
+  "sanskrit": {
+    "words": [
+      "BLOOMS",
+      "COMPLETE"
+    ],
+    "quotes": [
+      {
+        "id": "Q_SANS_007",
+        "name": "Complete",
+        "quality": "Complete",
+        "text": "Pure, constant, and complete; the offering of the heart at the feet of the Mother. A rose blooms in silent devotion, seeking only to give its fragrance.",
+        "source": "The Mother",
+        "book": "Flowers and Their Messages"
+      },
+      {
+        "id": "Q_SANS_009",
+        "name": "Blooms",
+        "quality": "Blooms",
+        "text": "Pure, constant, and complete; the offering of the heart at the feet of the Mother. A rose blooms in silent devotion, seeking only to give its fragrance.",
+        "source": "The Mother",
+        "book": "Flowers and Their Messages"
+      }
+    ]
+  },
+  "symbols": {
+    "words": [
+      "TRIANGLES"
+    ],
+    "quotes": [
+      {
+        "id": "Q_SYMB_012",
+        "name": "Triangles",
+        "quality": "Triangles",
+        "text": "The overlapping triangles represent the ascent of human aspiration and the descent of the Divine Grace. The square in the center represents manifestation, and the lotus represents realization.",
+        "source": "Sri Aurobindo",
+        "book": "Collected Letters"
+      }
+    ]
+  }
+}
